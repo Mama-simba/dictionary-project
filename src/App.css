@@ -1,9 +1,45 @@
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+
+body {
+  background-image: url("/src/blackboard.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
 .App {
-  text-align: center;
+  
+
+  text-align: center; 
+}
+
+
+.App-header {
+  margin-top: 50px;
 }
 
 
 
+footer {
+  margin: 0px 0 15px 0;
+}
 
+.copyright {
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  text-shadow: 2px 2px 2px rgba(31, 52, 63, 0.5);
+}
 
+.fa-github-square,
+.fa-linkedin {
+  text-decoration: none;
+  color: white;
+  padding: 0 5px;
+}
 
