@@ -14,19 +14,10 @@ body {
   background-size: 100% 100%;
 }
 
-
-.App {
-  text-align: center; 
-  
-  color: white;
-}
-
 h1 {
   font-family: 'Walter Turncoat', cursive;
-}
-
-p {
-  font-family: 'Pangolin', cursive;
+  text-align: center; 
+  color: white;
 }
 
 
