@@ -1,5 +1,32 @@
 
+section {
+    padding: 30px;
+    border-radius: 4px;
+    margin: 20px 0;
+    border: 3px solid white;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
 
 form {
     text-align: center;
+}
+
+.dictionary input {
+    width: 75%;
+    padding: 6px 10px;
+    margin-top: 20px;
+    text-align: left;
+    border: 2px solid #ddd;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    background: transparent;
+    color: #ddd;
+}
+
+.hint {
+    width: 75%;
+    margin: 5px auto;
+    padding-left: 5px;
+    font-size: 12px;
+    text-align: left;
+    color: #ddd;
 }

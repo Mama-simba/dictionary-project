@@ -2,3 +2,17 @@ body {
     font-family: 'Pangolin', cursive;
     color: white;
 }
+
+.noun {
+    border-color:white;
+    
+}
+
+.noun h2 {
+    font-size: 36px;
+    font-weight: bold;
+    line-height: 1.5;
+    color: #fbeeac;
+
+}
+
