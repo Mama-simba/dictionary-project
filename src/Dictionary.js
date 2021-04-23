@@ -53,6 +53,7 @@ export default function Dictionary(){
                     <input type="search" onChange={handleKeywordChange} defaultValue={keyword}/>
                 </form>
                 <div className="hint">
+                    <i class="fas fa-pencil-alt"></i>
                     suggested words: learn, coding, create, fun...
                 </div>
             <Results results={results}/>

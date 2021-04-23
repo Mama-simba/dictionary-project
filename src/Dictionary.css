@@ -22,10 +22,14 @@ form {
     color: #ddd;
 }
 
+.hint i {
+    padding-right: 5px;
+
+}
+
 .hint {
     width: 75%;
     margin: 5px auto;
-    padding-left: 5px;
     font-size: 12px;
     text-align: left;
     color: #ddd;
