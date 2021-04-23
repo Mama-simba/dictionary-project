@@ -4,15 +4,19 @@
   margin: 0;
 }
 
-
 body {
+  background-image: url("/src/background.jpg");
+  background-repeat:no-repeat;
   
+
 }
+
 
 
 .App {
   max-width: 960px;
   margin: 0 auto;
+
 
   background-image: url("/src/blackboard.jpg");
   background-repeat:no-repeat;
@@ -25,9 +29,13 @@ body {
 h1 {
   font-family: 'Walter Turncoat', cursive;
   color: white;
-  padding-top: 50px;
-  
+  padding-top: 50px; 
 }
+
+
+
+
+
 
 
 .App-header {
