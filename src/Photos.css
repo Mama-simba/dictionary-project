@@ -1,0 +1,18 @@
+
+
+
+
+.Photos img {
+    border: 3px outset white;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    margin-bottom: 20px;
+
+   
+}
+
+.Photos img:hover{
+    transform: scale(1.1);
+    transition: .5s ease-in-out;
+}
+
+
