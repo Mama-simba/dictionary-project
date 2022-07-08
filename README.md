@@ -1,4 +1,4 @@
-# React Dictionary App ☀️☔❄️
+# React Dictionary App 📗
 
 - [Overview](#overview)
 - [The challenge](#the-challenge)
@@ -44,8 +44,8 @@ In order to built this project, I previously learnt:
 
 - HTML, CSS and Bootstrap to make the app's design responsive.
 - React components, properties, events, states, forms, loops, AJAX, external components, etc.
-- Node.js, NPM
-- React Debugging
+- Node.js, NPM.
+- React Debugging.
 - API integration to access dictionary information.
 - GitHub to host my code's project online and make it visible to others.
 - Netlify to host my project and get a real domain/Url to share it proudly with others.
